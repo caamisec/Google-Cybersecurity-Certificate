@@ -11,10 +11,14 @@
             "id": "e84773124655b56e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Play-It-Safe-Manage-Security-Risks/Course Overview.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Course Overview"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02-Play-It-Safe-Manage-Security-Risks/Course Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Course Overview"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02-Play-It-Safe-Manage-Security-Risks/Course Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Course Overview"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02-Play-It-Safe-Manage-Security-Risks/Course Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Course Overview"
             }
           }
         ]
@@ -163,22 +170,22 @@
   },
   "active": "e84773124655b56e",
   "lastOpenFiles": [
+    "01-Foundations-of-Cybersecurity/Course Overview.md",
+    "02-Play-It-Safe-Manage-Security-Risks/Course Overview.md",
+    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/supporting-documents/3_template_Controls and compliance checklist.pdf",
+    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/supporting-documents/2_Control categories.pdf",
+    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/supporting-documents/1_Botium Toys_ Scope, goals, and risk assessment report.pdf",
+    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/supporting-documents",
+    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/Security Audit - Botium Toys.md",
+    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/Controls and compliance checklist.pdf",
+    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys",
     "02-Play-It-Safe-Manage-Security-Risks/supporting-documents/3_template_Controls and compliance checklist.pdf",
     "02-Play-It-Safe-Manage-Security-Risks/supporting-documents/2_Control categories.pdf",
     "02-Play-It-Safe-Manage-Security-Risks/supporting-documents/1_Botium Toys_ Scope, goals, and risk assessment report.pdf",
     "02-Play-It-Safe-Manage-Security-Risks/supporting-documents",
     "02-Play-It-Safe-Manage-Security-Risks/Security Audit - Botium Toys.md",
-    "02-Play-It-Safe-Manage-Security-Risks/Controls and compliance checklist.pdf",
-    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/supporting-documents/3_template_Controls and compliance checklist.pdf",
-    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/Security Audit - Botium Toys.md",
-    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/Controls and compliance checklist.pdf",
     "START HERE - Google Cybersecurity Certificate Portfolio.md",
     "01-Foundations-of-Cybersecurity/Professional Statement.md",
-    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/supporting-documents/2_Control categories.pdf",
-    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/supporting-documents/1_Botium Toys_ Scope, goals, and risk assessment report.pdf",
-    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/2_Control categories.pdf",
-    "02-Play-It-Safe-Manage-Security-Risks/security-audit-botium-toys/1_Botium Toys_ Scope, goals, and risk assessment report.pdf",
-    "01-Foundations-of-Cybersecurity/Course Overview.md",
     "01-Foundations-of-Cybersecurity/Course 1- Foundations of Cybersecurity.md",
     "Google Cybersecurity Certificate Portfolio.md"
   ]
