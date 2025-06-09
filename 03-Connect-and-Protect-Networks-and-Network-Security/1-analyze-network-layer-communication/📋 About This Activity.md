@@ -4,6 +4,8 @@ This project presents a network traffic analysis conducted as part of the **Goog
 
 You are a cybersecurity analyst working at a company that provides IT services for clients. Several customers reported they could not access the client website **[www.yummyrecipesforme.com](http://www.yummyrecipesforme.com)** and received "destination port unreachable" errors. The analyst was tasked with investigating the network connectivity issue and determining the root cause.
 
+![[Pasted image 20250609174356.png]]
+
 ## 🔍 Applied Methodology
 
 - **Tool**: tcpdump (network protocol analyzer)
