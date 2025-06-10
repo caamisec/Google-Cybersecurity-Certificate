@@ -41,6 +41,7 @@ This course gave me a solid foundation in network security concepts. I learned h
 
 - `1-analyze-network-layer-communication/` - DNS and ICMP traffic analysis incident report with tcpdump log investigation
 - `2-analyze-network-attacks` -  SYN flood attack analysis and incident response with Wireshark traffic investigation
+- `3-investigate-malware-incident/` - Website compromise and malware distribution investigation with tcpdump traffic analysis
 
 ---
 
