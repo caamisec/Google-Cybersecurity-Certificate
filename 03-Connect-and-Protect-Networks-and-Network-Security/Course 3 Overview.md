@@ -43,7 +43,10 @@ This course gave me a solid foundation in network security concepts. I learned h
 - `2-analyze-network-attacks` -  SYN flood attack analysis and incident response with Wireshark traffic investigation
 - `3-investigate-malware-incident/` - Website compromise and malware distribution investigation with tcpdump traffic analysis
 - `4-network-hardening-assessment/` - Security risk assessment and network hardening recommendations following data breach incident
+- `5-nist-csf-incident-response/` - **Portfolio Activity:** NIST Cybersecurity Framework application for DDoS incident analysis and response
 
 ---
 
-**Course Status:** 🔄 In Progress  
+**Course Status:** ✅ Completed  
+**Grade:** **98.81%** 
+**Completion Date:** **June 11, 2025**
