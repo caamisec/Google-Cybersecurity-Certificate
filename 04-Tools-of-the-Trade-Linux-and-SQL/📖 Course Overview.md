@@ -40,5 +40,6 @@ This course gave me essential technical skills for cybersecurity work. I learned
 `1-linux-file-permissions/` - **Portfolio Activity:** Linux command line file permissions management for research team security
 
 ---
-
-**Course Status:** 🔄 In Progress  
+**Course Status:** ✅ Completed  
+**Grade:** **97.50%** 
+**Completion Date:** **June 23, 2025**
