@@ -37,7 +37,7 @@ This course developed my practical incident response skills through hands-on exp
 
 ## 📁 Files in This Section
 
-_Coming soon - activities will be added as completed_
+`1-incident-handler-journal/` - **Portfolio Activity:** Ransomware incident documentation using incident handler's journal and 5 W's framework
 
 ---
 
