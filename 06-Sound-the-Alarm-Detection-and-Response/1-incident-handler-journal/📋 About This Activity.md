@@ -1,15 +1,42 @@
-This project presents a **Portfolio Activity** conducted as part of the **Google Cybersecurity Professional Certificate**. The objective was to document a ransomware security incident using an incident handler's journal, demonstrating proper incident documentation procedures essential for cybersecurity incident response teams. This activity showcases practical skills in incident analysis, documentation, and the application of the 5 W's framework for thorough incident recording.
+This project presents a **Portfolio Activity** conducted as part of the **Google Cybersecurity Professional Certificate**. The objective was to maintain a comprehensive incident handler's journal throughout Course 6, documenting various security incidents, tool usage, and learning experiences in detection and response. This activity demonstrates practical skills in incident documentation, network analysis, and the systematic recording of cybersecurity investigations essential for incident response teams.
 
 ## 🎯 Scenario
 
-A small U.S. healthcare clinic specializing in primary care services experienced a ransomware attack on Tuesday morning at approximately 9:00 a.m. Several employees reported inability to access their computers and files, including medical records. Business operations shut down due to inaccessible files and software. The attackers used targeted phishing emails with malicious attachments to gain network access, then deployed ransomware that encrypted critical files, demanding ransom payment for decryption keys.
+This incident handler's journal documents multiple cybersecurity scenarios and learning experiences throughout the course:
+
+- **Entry 001**: Ransomware attack on a healthcare clinic with business operations shutdown
+- **Entry 002**: Network traffic analysis using Wireshark packet capture tools
+- **Entry 003**: Command-line packet capture experience with tcpdump
+- **Entry 004**: Malicious file hash investigation using VirusTotal for SOC analysis
 
 ## 🔍 Applied Methodology
 
-- **Tool**: Incident Handler's Journal documentation template
-- **Framework**: 5 W's analysis (Who, What, When, Where, Why)
-- **Approach**: Systematic incident documentation and analysis
-- **Focus**: Ransomware attack documentation and incident response procedures
+- **Tool**: Incident Handler's Journal for continuous documentation
+- **Framework**: 5 W's analysis for incident investigation and tool evaluation
+- **Approach**: Progressive skill development through hands-on tool usage
+- **Focus**: Complete incident response lifecycle and network analysis capabilities
+
+## 📊 Key Findings
+
+### **Comprehensive Learning Documentation:**
+
+**Incident Response Documentation:**
+
+- **Ransomware Investigation**: Complete 5 W's analysis of healthcare clinic attack
+- **Attack Vector Analysis**: Phishing emails leading to system encryption
+- **Business Impact Assessment**: Operations shutdown and recovery procedures
+
+**Network Analysis Tool Proficiency:**
+
+- **Wireshark**: Graphical network protocol analysis and packet inspection
+- **tcpdump**: Command-line packet capture and filtering techniques
+- **VirusTotal**: Malicious file hash investigation and threat intelligence
+
+**Professional Development Tracking:**
+
+- Learning curve documentation with command-line interface challenges
+- Tool comparison and practical application experiences
+- Security awareness training and prevention strategy insights
 
 ## 📊 Key Findings
 
@@ -39,20 +66,20 @@ A small U.S. healthcare clinic specializing in primary care services experienced
 
 ## 🎯 Analysis Results
 
-The incident handler's journal provided comprehensive documentation of a sophisticated ransomware attack targeting healthcare infrastructure. The systematic documentation approach using the 5 W's framework ensured complete incident analysis and created valuable reference material for future incident response and prevention strategies.
+The comprehensive incident handler's journal documented progressive skill development across multiple cybersecurity tools and investigation techniques. The systematic approach demonstrated growth from initial ransomware incident analysis to advanced network traffic analysis and malicious file investigation, showcasing the complete incident response toolkit proficiency essential for security analysts.
 
 ## 📁 Documentation
 
-- **Portfolio Project**: Professional incident handler's journal entry
-- **Incident Analysis**: Complete 5 W's framework application
-- **Business Impact Assessment**: Operational and patient care disruption analysis
-- **Prevention Recommendations**: Security awareness training and IDS implementation suggestions
+- **Portfolio Project**: Complete incident handler's journal spanning entire Course 6
+- **Multi-Tool Experience**: Wireshark, tcpdump, and VirusTotal practical applications
+- **Incident Analysis**: Ransomware attack investigation with business impact assessment
+- **Learning Reflection**: Professional development tracking and skill progression documentation
 
 ## 💼 Skills Demonstrated
 
-- Incident response documentation and journal maintenance
-- Ransomware attack analysis and business impact assessment
-- 5 W's framework application for thorough incident investigation
-- Healthcare cybersecurity incident understanding
-- Professional incident reporting and communication
-- Security awareness training needs identification
+- Comprehensive incident response documentation and journal maintenance
+- Multi-tool network analysis proficiency (Wireshark, tcpdump)
+- Malicious file investigation using threat intelligence platforms
+- Command-line interface adaptation and troubleshooting
+- Professional learning reflection and continuous improvement mindset
+- 5 W's framework application across various cybersecurity scenarios
